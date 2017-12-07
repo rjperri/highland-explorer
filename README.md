@@ -21,7 +21,7 @@ Peakbaggin application for the Southren 6000 and Beyond club
 
 ### Platform
 
-Website:
+#### Website
 
 - static info
     - but use angularjs to make a dynamic app, of course
@@ -30,13 +30,13 @@ Website:
     - or better yet use amazon buckets!
 - Can Be Mobile Responive
 
-WebApp:
+#### WebApp
 
 - Can Keep track of personal progress
 - $$ Will need to host a webserver and DB
 - Can be mobile responve
 
-PhoneApp:
+#### PhoneApp
 
 - Lots' of really cool features to use, such as geolocation
 - $$ Will need to host a webserver and DB
