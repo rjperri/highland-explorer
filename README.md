@@ -96,7 +96,7 @@ Information to reach the summit of mountain, _static => dynamic_
 - Photos?
 - Waypoints
 
-## The Southren 6'ers total: 40 (52*)
+## The Southren 6'ers total: 40 (12*)
 
 ### Roan Highlands 3
 
