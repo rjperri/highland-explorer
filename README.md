@@ -96,7 +96,7 @@ Information to reach the summit of mountain, _static => dynamic_
 - Photos?
 - Waypoints
 
-## The Southern 6000 Beyond 40 (52)
+## The Southren 6'ers total: 40 (52*)
 
 ### Roan Highlands 3
 
@@ -121,7 +121,7 @@ Information to reach the summit of mountain, _static => dynamic_
 - Reinhart Knob 6080
 - Richland Balsam 6410
 
-### Plott Balsams 4 (5)
+### Plott Balsams 4 (1*)
 
 - Yellow Face 6032
 - Waterrock Knob 6292
@@ -129,7 +129,7 @@ Information to reach the summit of mountain, _static => dynamic_
 - Plott Balsam 6088
 - Browning Knob 6240 *
 
-### Smokies 12 (17)
+### Smokies 12 (5*)
 
 - Clingman’s Dome 6643
 - Mt Collins 6188
@@ -149,7 +149,7 @@ Information to reach the summit of mountain, _static => dynamic_
 - Mt Ambler 6120 *
 - Thermo Knob 6080 *
 
-### Black Mountains 10 (16)
+### Black Mountains 10 (6*)
 
 - Mt Mitchell 6684
 - Mt Craig 6647
@@ -167,3 +167,5 @@ Information to reach the summit of mountain, _static => dynamic_
 - Winter Star Mountain 6212
 - Percys Peak 6200 *
 - Patton Knob 6040 *
+
+_* - peaks over 6,000 feet, but not recoignized as part of the offical list of 6'ers_ 
