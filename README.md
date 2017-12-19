@@ -25,6 +25,7 @@ Peakbaggin application for the Southren 6000 and Beyond club
 
 - static info
     - but use angularjs to make a dynamic app, of course
+    - Use Angular 5!!!
 - won't keep track of personal progress
 - Cheap - can put a static site up on dropbox...done!
     - or better yet use amazon buckets!
