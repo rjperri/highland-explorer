@@ -101,72 +101,72 @@ Information to reach the summit of mountain, _static => dynamic_
 
 ### Roan Highlands 3
 
-- Grassy Ridge 6160
-- Roan High Knob 6285
-- Roan High Bluff 6267
+- [ ] Grassy Ridge 6160
+- [ ] Roan High Knob 6285
+- [ ] Roan High Bluff 6267
 
 ### Craggies 1
 
-- Craggy Dome 6080
+- [ ] Craggy Dome 6080
 
 ### Great Balsams 10
 
-- Cold Mountain 6030
-- Shining Rock 6040
-- Grassy Cove Top 6040
-- Tennent Mountain 6040
-- Black Balsam Knob 6214
-- Chestnut Bald 6040
-- Sam Knob 6040
-- Mt Hardy 6110
-- Reinhart Knob 6080
-- Richland Balsam 6410
+- [ ] Cold Mountain 6030
+- [ ] Shining Rock 6040
+- [ ] Grassy Cove Top 6040
+- [ ] Tennent Mountain 6040
+- [ ] Black Balsam Knob 6214
+- [ ] Chestnut Bald 6040
+- [ ] Sam Knob 6040
+- [ ] Mt Hardy 6110
+- [ ] Reinhart Knob 6080
+- [ ] Richland Balsam 6410
 
 ### Plott Balsams 4 (1*)
 
-- Yellow Face 6032
-- Waterrock Knob 6292
-- Lyn Lowry 6240
-- Plott Balsam 6088
-- Browning Knob 6240 *
+- [ ] Yellow Face 6032
+- [ ] Waterrock Knob 6292
+- [ ] Lyn Lowry 6240
+- [ ] Plott Balsam 6088
+- [ ] Browning Knob 6240 *
 
 ### Smokies 12 (5*)
 
-- Clingman’s Dome 6643
-- Mt Collins 6188
-- Mt LeConte 6593
-- Mt Kephart 6217
-- Mt Sequoyah 6003
-- Mt Chapman 6417
-- Tri Corner Knob/Mt Yonaguska 6120
-- Mark’s Knob 6169
-- Mt Guyot 6621
-- Old Black 6370
-- Big Cataloochee 6155
-- Luftee Knob 6234
-- Mt Buckley 6580 *
-- Mt Love 6446 *
-- Mt Hardison 6134 *
-- Mt Ambler 6120 *
-- Thermo Knob 6080 *
+- [ ] Clingman’s Dome 6643
+- [ ] Mt Collins 6188
+- [ ] Mt LeConte 6593
+- [ ] Mt Kephart 6217
+- [ ] Mt Sequoyah 6003
+- [ ] Mt Chapman 6417
+- [ ] Tri Corner Knob/Mt Yonaguska 6120
+- [ ] Mark’s Knob 6169
+- [ ] Mt Guyot 6621
+- [ ] Old Black 6370
+- [ ] Big Cataloochee 6155
+- [ ] Luftee Knob 6234
+- [ ] Mt Buckley 6580 *
+- [ ] Mt Love 6446 *
+- [ ] Mt Hardison 6134 *
+- [ ] Mt Ambler 6120 *
+- [ ] Thermo Knob 6080 *
 
 ### Black Mountains 10 (6*)
 
-- Mt Mitchell 6684
-- Mt Craig 6647
-- Balsam Cone 6611
-- Cattail Peak 6600
-- Mt Gibbes 6571
-- Big Tom 6560 *
-- Clingmans Peak 6557 *
-- Potato Hill 6475 *
-- Potato Knob 6400 *
-- Blackstock Knob 6359
-- Celo Knob 6327
-- Mt Hallback 6320
-- Gibbs Mountain 6224
-- Winter Star Mountain 6212
-- Percys Peak 6200 *
-- Patton Knob 6040 *
+- [ ] Mt Mitchell 6684
+- [ ] Mt Craig 6647
+- [ ] Balsam Cone 6611
+- [ ] Cattail Peak 6600
+- [ ] Mt Gibbes 6571
+- [ ] Big Tom 6560 *
+- [ ] Clingmans Peak 6557 *
+- [ ] Potato Hill 6475 *
+- [ ] Potato Knob 6400 *
+- [ ] Blackstock Knob 6359
+- [ ] Celo Knob 6327
+- [ ] Mt Hallback 6320
+- [ ] Gibbs Mountain 6224
+- [ ] Winter Star Mountain 6212
+- [ ] Percys Peak 6200 *
+- [ ] Patton Knob 6040 *
 
 _* - peaks over 6,000 feet, but not recoignized as part of the offical list of 6'ers_ 
